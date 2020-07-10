@@ -1,2 +1,2 @@
 # MechanicalDesign-week5
-how old were you when you were seven?
+### casting a hand + turning 2D into 3D with the extruding tool.
